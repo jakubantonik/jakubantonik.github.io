@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://tasks-1.jakubantonik.repl.co/v1/tasks';
+  var apiRoot = 'https://tasks-1.jakubantonik.repl.co;
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
